@@ -2,7 +2,7 @@
 
 Description:
 
-A performance project created for WebstaurantStore to see advertisement performance on all the Facebook platforms. The performance of the advertisements was sample data from January to April of 2020, and the instruction provided from WebstaurantStore was open for interpretation. This project analyzes, visualizes, and forecasts the performance of those ads to create a powerpoint report.
+A performance project was created for WebstaurantStore to see advertisement performance on all the Facebook platforms. The performance of the advertisements was sample data from January to April of 2020, and the instruction provided from WebstaurantStore was open for interpretation. This project analyzes, visualizes, and forecasts the performance of those ads to create a PowerPoint report.
 
 Built With:
 - Google Cloud BigQuery
