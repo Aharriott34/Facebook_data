@@ -36,12 +36,14 @@ Visualizations:
 - Forecast Models
 ![Forecasting Model Peak](https://user-images.githubusercontent.com/78121835/130523218-78b82293-55f0-464f-a462-f70df3283b76.png)
 ![Conversions Peak Forecast](https://user-images.githubusercontent.com/78121835/130523265-49eb9f31-32d5-44f4-b31d-b7722b510684.png)
-
 ![Forecasting Model Actual Click Through Rate](https://user-images.githubusercontent.com/78121835/130523483-06773b35-3190-4be9-b05e-b18bcf3a8714.png)
-![Forecasting Model 2](https://user-images.githubusercontent.com/78121835/130523541-4b5d2a8f-642c-4cd2-9dfc-31ba1fbd8913.png)
+![Conversion Projected](https://user-images.githubusercontent.com/78121835/130523661-0b4e8a7c-c472-4598-a2ee-1793105fd066.png)
+
 
 - Facebook Advertisements
 ![Location Breakdown](https://user-images.githubusercontent.com/78121835/130523438-0f1c35ce-89d6-4378-a128-df8ed39f8d17.png)
+![Link Variation](https://user-images.githubusercontent.com/78121835/130523696-ee6ba7dc-e892-47e6-8c06-6e47b29a1b13.png)
+
 
 
 
