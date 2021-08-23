@@ -13,7 +13,8 @@ Prerequisites:
 - Python packages used for analyzation:
   - Numpy
   - Pandas
-  - Scipy.stats
+  - Scipy.stats![Forecasting Model 2](https://user-images.githubusercontent.com/78121835/130522852-986d0263-4ac5-4bfb-9738-20e1a2c272ad.png)
+
 - Python packages for visualization:
   - Matplotlib
   - Seaborn
