@@ -34,8 +34,12 @@ Python 3 was used to store the data from BigQuery, and to analyze even further. 
 
 Visualizations:
 - Forecast Models
-- ![Conversions Peak Forecast](https://user-images.githubusercontent.com/78121835/130523058-7a3b31b5-bb8c-4658-9726-4f20367bed2c.png)
-- ![Forecasting Model Actual Click Through Rate](https://user-images.githubusercontent.com/78121835/130523097-5956ae02-5f86-46fa-a819-e49e8490703b.png)
+![Forecasting Model Peak](https://user-images.githubusercontent.com/78121835/130523218-78b82293-55f0-464f-a462-f70df3283b76.png)
+![Conversions Peak Forecast](https://user-images.githubusercontent.com/78121835/130523265-49eb9f31-32d5-44f4-b31d-b7722b510684.png)
+
+
+
+
 
 
 
