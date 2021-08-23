@@ -13,7 +13,7 @@ Prerequisites:
 - Python packages used for analyzation:
   - Numpy
   - Pandas
-  - Scipy.stats![Forecasting Model 2](https://user-images.githubusercontent.com/78121835/130522852-986d0263-4ac5-4bfb-9738-20e1a2c272ad.png)
+  - Scipy.stats
 
 - Python packages for visualization:
   - Matplotlib
@@ -31,6 +31,13 @@ Google Cloud BigQuery was used to aggeregate the sample data provided from Webst
 Microsoft Excel was used to create pivot tables of the ads and to see which types of ads are being displayed and clicked on the most. It was also used to visualize certain Key Performance Indicators such as Leads per advertisement.
 
 Python 3 was used to store the data from BigQuery, and to analyze even further. It was used to find other Key Performance Indicators such as cost per click, as well as to forecast performance for the remainder of the year. Python 3 was finally used to visualize the analyzed data, and for hypothesis testing.
+
+Visualizations:
+- Forecast Models
+- ![Conversions Peak Forecast](https://user-images.githubusercontent.com/78121835/130523058-7a3b31b5-bb8c-4658-9726-4f20367bed2c.png)
+- ![Forecasting Model Actual Click Through Rate](https://user-images.githubusercontent.com/78121835/130523097-5956ae02-5f86-46fa-a819-e49e8490703b.png)
+
+
 
 
 
