@@ -9,19 +9,18 @@ Built With:
 - Python 3 
 
 Prerequisites:
-
-Python packages used for analyzation.
-- Numpy
-- Pandas
-- Scipy.stats
-Python packages for visualization.
-- Matplotlib
-- Seaborn
-Python package for forecasting.
-- Random
-- Numpy
-Python package for hypothesis testing.
-- f_oneway in scipy.stats
+- Python packages used for analyzation.
+  - Numpy
+  - Pandas
+  - Scipy.stats
+- Python packages for visualization.
+  - Matplotlib
+  - Seaborn
+- Python package for forecasting.
+  - Random
+  - Numpy
+- Python package for hypothesis testing.
+  - f_oneway in scipy.stats
 
 Usage:
 Google Cloud BigQuery was used to aggeregate the sample data provided from WebstaurantStore ads to figure out the performance of certain ads. There was roughly 64,000 ads saved in the table. There were some tables aggregated to find the cost and revenue of the ads over the 3 and a half month span. There were some tables aggregated to show the types of links shown and the campaing objectives of those links.
